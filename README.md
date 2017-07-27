@@ -9,7 +9,7 @@ Installation:
 Copy "content" into /res_mods/a.b.c.d(current version)/
 
 
-!This mod works only when the intact "hunt of bismarck" skin is mounted!
+!This mod works only when the intact "The Hunt for Bismarck" skin is mounted!
 
 安装：
 把content放到
